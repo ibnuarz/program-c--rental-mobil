@@ -1,0 +1,13 @@
+Welcome to POLAR Car Rental
+==============================
+Please select an option below:
+1. Add List Reservation
+2. Input Detail Resvervation
+3. Watinglist Reservation
+4. List Data Reservation
+5. Search Reservation
+6. Sort Reservation
+7. Edit Reservation
+8. Done Reservation 
+9. Exit     
+==============================  
